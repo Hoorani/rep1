@@ -6,11 +6,12 @@ I'm editing this on edit-readme-branch branch just for a test
 
 
 Things I've reviewed from github learning.
-- how to make branched
-- pull request/merge
-- issues, comments
-
+[x] how to make branched
+[x] pull request/merge
+[x] issues, comments
+[x] git tags
+[x] Forking a large (famous) project
 
 Future:
--Forking a large (famous) project
+
 
