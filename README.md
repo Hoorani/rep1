@@ -11,7 +11,12 @@ Things I've reviewed from github learning.
 - [x] issues, comments
 - [x] git tags
 - [x] Forking a large (famous) project
+- [x] added gitgraph VS code extension
+- [x] learn about git staged and untracked, modifed and unmodified mode
+- [x] commited without -m 
+- [x] git log
+- [x] learned that diff file1 file2    is a linux command.
 
 Future:
-
+- [] Follow up AHzi
 
