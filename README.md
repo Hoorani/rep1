@@ -16,7 +16,8 @@ Things I've reviewed from github learning.
 - [x] commited without -m 
 - [x] git log
 - [x] learned that diff file1 file2    is a linux command.
+- [x] .gitignore is added  
 
 Future:
-- [] Follow up AHzi
+- [ ] Follow up AHzi
 
